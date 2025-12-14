@@ -1,10 +1,4 @@
-// ======================================================
-//  GeoView WebAR – popup.js (Cleaned & Organized Version)
-// ======================================================
 
-// ----------------------
-// DOM ELEMENT REFERENCES
-// ----------------------
 const startScreen     = document.getElementById('start-screen');
 const startBtn        = document.getElementById('start-btn');
 const startExitBtn    = document.getElementById('start-exit-btn');
